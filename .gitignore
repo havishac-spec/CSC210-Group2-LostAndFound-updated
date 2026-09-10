@@ -1,0 +1,11 @@
+backend/target/
+*.class
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+.env
+node_modules/
